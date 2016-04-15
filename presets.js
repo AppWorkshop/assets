@@ -32,6 +32,7 @@ Presets.ios = [
   { name: 'Icon-76.png',              size: 76 },
   { name: 'Icon-76@2x.png',           size: 152 },
   { name: 'Icon-76@3x.png',           size: 228 },
+  { name: 'Icon-83.5@2x.png',         size: 167 },
   { name: 'Icon-Small-50.png',        size: 50 },
   { name: 'Icon-Small-50@2x.png',     size: 100 },
   { name: 'Icon-Small.png',           size: 29 },
